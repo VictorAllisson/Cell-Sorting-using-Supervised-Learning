@@ -15,3 +15,6 @@ Based on the mentioned importance of cell morphology and composition, distinguis
 
 Reference
 Liu Y, Zhang Y, Cui J. Recognized trophoblast-like cells conversion from human embryonic stem cells by BMP4 based on convolutional neural network. Reprod Toxicol. 2021 Jan;99:39-47. doi: 10.1016/j.reprotox.2020.11.006. Epub 2020 Nov 26. PMID: 33249234.
+
+
+[final_project_V2.pdf](https://github.com/VictorAllisson/Cell-Sorting-using-Supervised-Learning/files/13790533/final_project_V2.pdf)
