@@ -13,6 +13,8 @@ Implementation of Liu et al., 2021
 
 Based on the mentioned importance of cell morphology and composition, distinguishing between different cell types can provide valuable information for various applications in molecular and cellular biology. In this project, I selected an article that implemented pre-trained neural networks, including DenseNet, VGG16, VGG19, InceptionV3, and Xception, to distinguish between two types of cells: trophoblasts and embryonic stem (ES) cells. The article trained these models using 1500 images and Python language. As part of my project, I adapted their work to Matlab and tested the trained models using my own images, which I collected in my laboratory.
 
+![image](https://github.com/VictorAllisson/Cell-Sorting-using-Supervised-Learning/assets/33376408/b77db491-d044-4aa8-949d-2fcd2d8b667d)
+
 Reference
 Liu Y, Zhang Y, Cui J. Recognized trophoblast-like cells conversion from human embryonic stem cells by BMP4 based on convolutional neural network. Reprod Toxicol. 2021 Jan;99:39-47. doi: 10.1016/j.reprotox.2020.11.006. Epub 2020 Nov 26. PMID: 33249234.
 
